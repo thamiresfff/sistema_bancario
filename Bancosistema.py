@@ -46,6 +46,6 @@ while True:
         print("Não foram realizadas operações" if not extrato else extrato)
         print(f"O saldo é:{saldo: .2f}\n")
     elif opcao == "q":
-        print("Obrigada por utilizar nossos serviços, volte sempre")
+        print("Obrigada por utilizar nossos servioços, volte sempre")
     else:
         print("Opção invalida")
